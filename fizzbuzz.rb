@@ -12,6 +12,3 @@ elsif num % 5!= 0 && num % 3 != 0
   puts "nil"
 end
 end
-
-
-fizbuzz(5)
