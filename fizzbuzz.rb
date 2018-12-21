@@ -9,6 +9,6 @@ elsif num % 3 == 0
 elsif num % 5 == 0
   "Buzz"
 elsif num % 5!= 0 && num % 3 != 0
-  puts "nil"
+  "nil"
 end
 end
